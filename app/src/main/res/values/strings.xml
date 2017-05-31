@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RuntimePermission</string>
+    <string name="front">&lt;</string>          // lt : less than
+    <string name="back">&gt;</string>           // gt : greater than
+</resources>
